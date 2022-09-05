@@ -1,6 +1,6 @@
 ## Visualization by ParaView 
 
-`git clone https://github.com/TakeshiKawasaki/visualize` repo <br>
+`git clone https://github.com/TakeshiKawasaki/visualize repo` <br>
  For update:<br>
  `git pull` 
 
